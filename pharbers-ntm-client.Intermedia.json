@@ -1,0 +1,827 @@
+{ 
+    "_id" : ObjectId("5cdab1c13fdcf20c8a8e9471"), 
+    "uuid" : "intermedia", 
+    "curves" : {
+        "curve02" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : 0.05
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : 0.09
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : 0.12
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : 0.145
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : 0.16
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : 0.17
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : 0.18
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : 0.185
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : 0.19
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : 0.2
+            }
+        ], 
+        "curve03" : [
+            {
+                "x" : NumberInt(5), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : 0.05
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : 0.09
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : 0.12
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : 0.145
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : 0.16
+            }, 
+            {
+                "x" : NumberInt(11), 
+                "y" : 0.17
+            }, 
+            {
+                "x" : NumberInt(12), 
+                "y" : 0.18
+            }, 
+            {
+                "x" : NumberInt(13), 
+                "y" : 0.185
+            }, 
+            {
+                "x" : NumberInt(14), 
+                "y" : 0.19
+            }, 
+            {
+                "x" : NumberInt(15), 
+                "y" : 0.2
+            }
+        ], 
+        "curve04" : [
+            {
+                "x" : NumberInt(15), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(16), 
+                "y" : 0.05
+            }, 
+            {
+                "x" : NumberInt(17), 
+                "y" : 0.09
+            }, 
+            {
+                "x" : NumberInt(18), 
+                "y" : 0.12
+            }, 
+            {
+                "x" : NumberInt(19), 
+                "y" : 0.145
+            }, 
+            {
+                "x" : NumberInt(20), 
+                "y" : 0.16
+            }, 
+            {
+                "x" : NumberInt(21), 
+                "y" : 0.17
+            }, 
+            {
+                "x" : NumberInt(22), 
+                "y" : 0.18
+            }, 
+            {
+                "x" : NumberInt(23), 
+                "y" : 0.185
+            }, 
+            {
+                "x" : NumberInt(24), 
+                "y" : 0.19
+            }, 
+            {
+                "x" : NumberInt(25), 
+                "y" : 0.2
+            }
+        ], 
+        "curve05" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : 0.05
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : 0.1
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : 0.15
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : 0.2
+            }
+        ], 
+        "curve06" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : 0.18
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : 0.2
+            }
+        ], 
+        "curve07" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : 0.15
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : 0.2
+            }
+        ], 
+        "curve09" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : 0.05
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : 0.1
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : 0.15
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : 0.2
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : 0.3
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : 0.35
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : 0.4
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : 0.45
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : 0.48
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : 0.5
+            }
+        ], 
+        "curve14" : [
+            {
+                "x" : 0.8, 
+                "y" : NumberInt(80)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : NumberInt(100)
+            }
+        ], 
+        "curve16" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : NumberInt(2)
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : NumberInt(5)
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : NumberInt(10)
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : NumberInt(20)
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : NumberInt(30)
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : NumberInt(40)
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : NumberInt(50)
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : NumberInt(60)
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : NumberInt(70)
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : NumberInt(80)
+            }, 
+            {
+                "x" : NumberInt(11), 
+                "y" : NumberInt(85)
+            }, 
+            {
+                "x" : NumberInt(12), 
+                "y" : NumberInt(90)
+            }, 
+            {
+                "x" : NumberInt(13), 
+                "y" : NumberInt(95)
+            }, 
+            {
+                "x" : NumberInt(14), 
+                "y" : NumberInt(98)
+            }, 
+            {
+                "x" : NumberInt(15), 
+                "y" : NumberInt(100)
+            }
+        ], 
+        "curve18" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : NumberInt(25)
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : NumberInt(45)
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : NumberInt(60)
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : NumberInt(70)
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : NumberInt(80)
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : NumberInt(85)
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : NumberInt(90)
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : NumberInt(94)
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : NumberInt(97)
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : NumberInt(100)
+            }
+        ], 
+        "curve19" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(-50)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : NumberInt(-25)
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : NumberInt(15)
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : NumberInt(35)
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : NumberInt(55)
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : NumberInt(70)
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : NumberInt(80)
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : NumberInt(90)
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : NumberInt(95)
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : NumberInt(98)
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : NumberInt(100)
+            }
+        ], 
+        "curve20" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : NumberInt(25)
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : NumberInt(45)
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : NumberInt(60)
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : NumberInt(70)
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : NumberInt(80)
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : NumberInt(85)
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : NumberInt(90)
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : NumberInt(94)
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : NumberInt(97)
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : NumberInt(100)
+            }
+        ], 
+        "curve21" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(-50)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : NumberInt(-25)
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : NumberInt(15)
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : NumberInt(35)
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : NumberInt(55)
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : NumberInt(70)
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : NumberInt(80)
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : NumberInt(90)
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : NumberInt(95)
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : NumberInt(98)
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : NumberInt(100)
+            }
+        ], 
+        "curve22" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(1), 
+                "y" : NumberInt(25)
+            }, 
+            {
+                "x" : NumberInt(2), 
+                "y" : NumberInt(45)
+            }, 
+            {
+                "x" : NumberInt(3), 
+                "y" : NumberInt(60)
+            }, 
+            {
+                "x" : NumberInt(4), 
+                "y" : NumberInt(70)
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : NumberInt(80)
+            }, 
+            {
+                "x" : NumberInt(6), 
+                "y" : NumberInt(85)
+            }, 
+            {
+                "x" : NumberInt(7), 
+                "y" : NumberInt(90)
+            }, 
+            {
+                "x" : NumberInt(8), 
+                "y" : NumberInt(94)
+            }, 
+            {
+                "x" : NumberInt(9), 
+                "y" : NumberInt(97)
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : NumberInt(100)
+            }
+        ], 
+        "curve28" : [
+            {
+                "x" : NumberInt(0), 
+                "y" : NumberInt(0)
+            }, 
+            {
+                "x" : NumberInt(5), 
+                "y" : 0.5
+            }, 
+            {
+                "x" : NumberInt(10), 
+                "y" : NumberInt(1)
+            }, 
+            {
+                "x" : NumberInt(15), 
+                "y" : NumberInt(2)
+            }, 
+            {
+                "x" : NumberInt(20), 
+                "y" : 3.5
+            }, 
+            {
+                "x" : NumberInt(25), 
+                "y" : NumberInt(5)
+            }, 
+            {
+                "x" : NumberInt(30), 
+                "y" : 6.5
+            }, 
+            {
+                "x" : NumberInt(35), 
+                "y" : 8.5
+            }, 
+            {
+                "x" : NumberInt(40), 
+                "y" : 10.5
+            }, 
+            {
+                "x" : NumberInt(45), 
+                "y" : NumberInt(13)
+            }, 
+            {
+                "x" : NumberInt(50), 
+                "y" : 15.5
+            }, 
+            {
+                "x" : NumberInt(55), 
+                "y" : NumberInt(18)
+            }, 
+            {
+                "x" : NumberInt(60), 
+                "y" : 20.5
+            }, 
+            {
+                "x" : NumberInt(65), 
+                "y" : NumberInt(23)
+            }, 
+            {
+                "x" : NumberInt(70), 
+                "y" : 25.5
+            }, 
+            {
+                "x" : NumberInt(75), 
+                "y" : 27.5
+            }, 
+            {
+                "x" : NumberInt(80), 
+                "y" : 29.5
+            }, 
+            {
+                "x" : NumberInt(85), 
+                "y" : NumberInt(31)
+            }, 
+            {
+                "x" : NumberInt(90), 
+                "y" : NumberInt(32)
+            }, 
+            {
+                "x" : NumberInt(95), 
+                "y" : 32.5
+            }, 
+            {
+                "x" : NumberInt(100), 
+                "y" : NumberInt(33)
+            }
+        ]
+    }, 
+    "weightages" : {
+        "weightage02" : [
+            {
+                "territory_management_ability" : 0.2, 
+                "sales_skills" : 0.25, 
+                "product_knowledge" : 0.25, 
+                "behavior_efficiency" : 0.15, 
+                "work_motivation" : 0.15
+            }
+        ], 
+        "weightage03" : [
+            {
+                "general_ability" : 0.3, 
+                "call_time_factor" : 0.5, 
+                "quota_restriction_factor" : 0.2
+            }
+        ], 
+        "weightage04" : [
+            {
+                "business_strategy_planning_factor" : 0.2, 
+                "admin_work_factor" : 0.2, 
+                "employee_kpi_and_compliance_check_factor" : 0.2, 
+                "team_meeting_factor" : 0.2, 
+                "kol_management_factor" : 0.2
+            }
+        ], 
+        "weightage05" : [
+            {
+                "rep_ability_efficiency" : 0.6, 
+                "field_work_factor" : 0.2, 
+                "deployment_quality" : 0.2
+            }
+        ], 
+        "weightage06" : [
+            {
+                "budget_factor" : 0.6, 
+                "meeting_attendance_factor" : 0.4
+            }
+        ], 
+        "weightage07" : [
+            {
+                "sales_performance" : 0.6, 
+                "customer_relationship" : 0.4
+            }
+        ], 
+        "weightage10" : [
+            {
+                "current_oa" : 0.9, 
+                "p_offer_attractiveness" : 0.1
+            }
+        ], 
+        "weightage11" : [
+            {
+                "current_oa" : 0.7, 
+                "p_offer_attractiveness" : 0.3
+            }
+        ]
+    }
+}
+{ 
+    "_id" : ObjectId("5cdab1ef3fdcf20c8a8e947a"), 
+    "proposal-id" : "5cc018a2f4ce4374c23cece6", 
+    "initial_phase" : [
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23cecc4", 
+            "offer_attractiveness" : NumberInt(74), 
+            "customer_relationship" : NumberInt(80), 
+            "hosp_size" : NumberInt(3)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23cecc5", 
+            "offer_attractiveness" : NumberInt(67), 
+            "customer_relationship" : NumberInt(70), 
+            "hosp_size" : NumberInt(2)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23cecc6", 
+            "offer_attractiveness" : NumberInt(71), 
+            "customer_relationship" : NumberInt(70), 
+            "hosp_size" : NumberInt(3)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23cecc7", 
+            "offer_attractiveness" : NumberInt(71), 
+            "customer_relationship" : NumberInt(65), 
+            "hosp_size" : NumberInt(2)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23cecc8", 
+            "offer_attractiveness" : NumberInt(71), 
+            "customer_relationship" : NumberInt(80), 
+            "hosp_size" : NumberInt(2)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23cecc9", 
+            "offer_attractiveness" : NumberInt(74), 
+            "customer_relationship" : NumberInt(75), 
+            "hosp_size" : NumberInt(2)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23cecca", 
+            "offer_attractiveness" : NumberInt(69), 
+            "customer_relationship" : NumberInt(75), 
+            "hosp_size" : NumberInt(1)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23ceccb", 
+            "offer_attractiveness" : NumberInt(41), 
+            "customer_relationship" : NumberInt(30), 
+            "hosp_size" : NumberInt(1)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23ceccc", 
+            "offer_attractiveness" : NumberInt(65), 
+            "customer_relationship" : NumberInt(65), 
+            "hosp_size" : NumberInt(1)
+        }, 
+        {
+            "hosp_id" : "5cc00fabf4ce4374c23ceccd", 
+            "offer_attractiveness" : NumberInt(74), 
+            "customer_relationship" : NumberInt(80), 
+            "hosp_size" : NumberInt(3)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5ce257ade53d373740006ca1"), 
+    "type" : "evaluation", 
+    "eva_table" : [
+        {
+            "variables" : "ab1", 
+            "level1" : 1.0, 
+            "level2" : 1.0
+        }, 
+        {
+            "variables" : "ab2", 
+            "level1" : 1.0, 
+            "level2" : 1.0
+        }, 
+        {
+            "variables" : "ab3", 
+            "level1" : 1.0, 
+            "level2" : 1.0
+        }, 
+        {
+            "variables" : "ab4", 
+            "level1" : 1.0, 
+            "level2" : 1.0
+        }, 
+        {
+            "variables" : "ab5", 
+            "level1" : 1.0, 
+            "level2" : 1.0
+        }
+    ]
+}
